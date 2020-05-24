@@ -1,6 +1,6 @@
 # crud-express
 
-# git clone git@github.com:Davidsonts/crud-express.git
+$ git clone git@github.com:Davidsonts/crud-express.git
 
 $ cd crud-express
 
